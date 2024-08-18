@@ -29,6 +29,6 @@ Before running this project, ensure you have the following installed:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/calendar-app.git
-cd calendar-app
+git clone https://github.com/hashir-002/Calendar-app-using-fast-api.git
+cd calendar-app-using-fast-api
 
